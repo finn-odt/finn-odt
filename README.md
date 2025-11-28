@@ -1,6 +1,6 @@
 Hi, I'm Finn.
 
-I have studied Information systems technology at the TU Darmstadt.
+I have a B.Sc. in Information systems technology (TU Darmstadt) and am currently studying B.A. Animation & Game (University of Applied Sciences Darmstadt).
 
 Programming languages:
 - C/C++
@@ -11,4 +11,5 @@ Programming languages:
 - Python
 
 Pronouns: he/him
+
 
